@@ -25,7 +25,7 @@ header {
     align-items: center;
     background-color: white;
     z-index: 1000;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    
 }
 .logo {
     display: flex;
@@ -266,7 +266,6 @@ nav ul li:first-child a {
     width: 1022px;
     height: 525px;
     border-radius: 12px;
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -299,7 +298,7 @@ nav ul li:first-child a {
     height: 1532px;
     left: calc(50% - 1366px/2);
     top: 1730px;
-    background: #F7F9FF;
+    background:#F7F9FF;
 }
 .header-text {
     width: 361px;
@@ -338,4 +337,11 @@ nav ul li:first-child a {
     left: 0; 
     padding: 50px 182px; 
     box-sizing: border-box; 
+}
+.advisor{
+    width: 1368px;
+height: 781px;
+top: 2479px;
+left: -1px;
+
 }
